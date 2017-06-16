@@ -1,0 +1,9 @@
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\bin\Debug\JEVE_Monitor.exe.config
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\bin\Debug\JEVE_Monitor.exe
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\bin\Debug\JEVE_Monitor.pdb
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\obj\Debug\JEVE_Monitor.csprojResolveAssemblyReference.cache
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\obj\Debug\JEVE_Monitor.Form1.resources
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\obj\Debug\JEVE_Monitor.Properties.Resources.resources
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\obj\Debug\JEVE_Monitor.csproj.GenerateResource.Cache
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\obj\Debug\JEVE_Monitor.exe
+F:\visual studio project\JEVE_Monitor\JEVE_Monitor\obj\Debug\JEVE_Monitor.pdb
